@@ -1,4 +1,4 @@
-A simple script to test a LAMP build for Apache, MySQL and PHP functionality.
+A simple PHP script to test a LAMP build for Apache, MySQL and PHP functionality.
 
 Thsi script is written in PHP and was tested on an Ubuntu Linux server running Apache2, Mysql and PHP.
 
